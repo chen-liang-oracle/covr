@@ -1,3 +1,4 @@
+# some tests to try on local test branch
 #' Run covr on a package and upload the result to codecov.io
 #' @param coverage an existing coverage object to submit, if \code{NULL},
 #' \code{\link{package_coverage}} will be called with the arguments from
